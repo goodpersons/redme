@@ -60,7 +60,7 @@
    可选择表情消息发送
 5. 英文模式
    可编辑英文消息，消息发送会自动翻译为双语消息
-   ![ezgif.com-crop.gif](https://s2.loli.net/2023/09/01/h3TBymuCMQ4ZjGO.gif)
+   ![英语输入.gif](https://s2.loli.net/2023/09/01/JgIT3U7lFk4WPNB.gif)
 7. 中文模式
    可编辑中文消息，消息发送会自动翻译为双语消息
    ![ezgif.com-gif-maker _5_.gif](https://s2.loli.net/2023/09/01/rvdxwND6uy4aVRj.gif)
