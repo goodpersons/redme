@@ -12,13 +12,13 @@
 
    B: 下图是聊天翻译的图片。
 
- ![ezgif.com-video-to-gif.gif](https://s2.loli.net/2023/09/01/c5qFtOh3aYd2og8.gif)
+![ezgif.com-video-to-gif _1_.gif](https://s2.loli.net/2023/09/01/A4JvN3a9W2gCPQh.gif)
 
 2. 消息复制功能
 
    * 长按消息复制
    * 点击消息时间展开 功能页中的 ![014580f22fb400253b73291a338cda8.png](https://s2.loli.net/2023/09/01/ktMb8yLe3jIrcEg.png) 复制按钮
-
+   ![ezgif.com-gif-maker.gif](https://s2.loli.net/2023/09/01/OdfPT3BIFs9uHW2.gif)
 3. 消息引用功能
 
    点击消息时间展开 功能页中的  ![0f036616988910e6dc4a04ec7b81ffa.png](https://s2.loli.net/2023/09/01/eGX14lih6PDMCnu.png) 引用按钮
@@ -38,7 +38,7 @@
     点击发送到多个会话中（如下图）
 
    ![22ba0357f9d0af1b3d8509b3c23cdbc.jpg](https://s2.loli.net/2023/09/01/UjsXP4efCcTY8qn.jpg)
-
+   ![ezgif.com-optimize _1_.gif](https://s2.loli.net/2023/09/01/nHSjI5QfTLvAwR7.gif)
    
 
 5. 消息撤回功能
@@ -46,7 +46,7 @@
    点击消息时间展开 功能页中的 ![60e1c0f1e3e724d61315a21f122dc85.png](https://s2.loli.net/2023/09/01/dSU4rIHmYzblxVo.png) 撤回按钮 撤回消息
 
    ![93965618363dd28ed65ae20ebb6f7ea.jpg](https://s2.loli.net/2023/09/01/yOtVuzQc6bGExiq.jpg)
-
+   ![ezgif.com-video-to-gif _3_.gif](https://s2.loli.net/2023/09/01/HvLwhlqcp4JrOEf.gif)
    
    恭喜你已经学会了复制文本、引用回复、翻译文本、群发功能、撤回聊天的功能。
 
