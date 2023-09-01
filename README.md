@@ -26,14 +26,14 @@
 
    如下图所示：
    
-   ![ezgif.com-gif-maker _3_.gif](https://s2.loli.net/2023/09/01/eGs4KROy1dvMmW6.gif)
+   ![消息引用.gif](https://s2.loli.net/2023/09/01/eLcTDnyo3QhMEgi.gif)
    
 
 4. 消息群发功能
 
    点击消息时间展开功能页中，点击分享图标可分享多条聊天记录到多个会话里面（没明白看看下图演示）
 
-   ![ezgif.com-optimize _1_.gif](https://s2.loli.net/2023/09/01/nHSjI5QfTLvAwR7.gif)
+   ![群发消息.gif](https://s2.loli.net/2023/09/01/DXYSHtknJTbGfLo.gif)
    
 
 5. 消息撤回功能
