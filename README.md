@@ -12,7 +12,7 @@
 
    B: 下图是聊天翻译的图片。
 
-  ![04ef9d462d44356b4ae5c1d8957b8ac.jpg](https://s2.loli.net/2023/09/01/mWuUZoiL9YKvAST.jpg)
+ ![ezgif.com-video-to-gif.gif](https://s2.loli.net/2023/09/01/c5qFtOh3aYd2og8.gif)
 
 2. 消息复制功能
 
